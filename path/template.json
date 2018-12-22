@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "variables": {
         "storageName": "[parameters('storageName')]"
-    }
+    },
     "resources": [
       {
             "type": "Microsoft.Storage/storageAccounts",
